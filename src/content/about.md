@@ -2,8 +2,6 @@
 title: About me
 ---
 
-### Hi, I'm Amalia 👋
-
 I was born in Greece, where the light on the water and the scent of summer gardens shaped the way I see the world before I ever picked up a brush. I started painting as a small child, alongside my father — those early afternoons together are still where my love of colour begins.
 
 Ten years ago, I moved to Switzerland to study, and it became home. Since then I've worked my way through nearly every medium, searching for the one that felt most like my own voice — until I found watercolour, and everything else fell away.

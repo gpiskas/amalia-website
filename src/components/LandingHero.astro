@@ -1,0 +1,36 @@
+---
+import siteConfig from '../../site.config.mjs';
+import SocialIcon from './SocialIcon.astro';
+
+
+const title = siteConfig.title;
+const socialLinks = siteConfig.socialLinks;
+
+---
+
+<div class="absolute left-0 right-0 z-0">
+	<div class="text-center mb-12 relative z-10">
+		<h1 class="text-3xl md:text-4xl lg:text-5xl font-bold leading-tight">
+			{title}
+		</h1>
+		<p class="mt-4 text-base md:text-lg text-gray-700">Serene watercolour coastal & botanical originals<br/>📍Zürich</p>
+		<a
+			href='/collections'
+			class="mt-8 inline-block px-6 py-3 border-2 border-black rounded-md
+                      hover:bg-black hover:text-white transition-all duration-300
+                      text-sm md:text-base font-medium
+                      transform hover:scale-105 active:scale-95"
+		>
+			Gallery
+		</a>		<a
+			href='https://www.instagram.com/byamalia.artstudio/'
+			target="_blank"
+			class="mt-8 inline-block px-6 py-3 border-2 border-black rounded-md
+                      hover:bg-black hover:text-white transition-all duration-300
+                      text-sm md:text-base font-medium
+                      transform hover:scale-105 active:scale-95"
+		>
+			Instagram
+		</a>
+	</div>
+</div>

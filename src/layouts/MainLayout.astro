@@ -4,7 +4,7 @@ import siteConfig from '../../site.config.mjs';
 import Footer from '../components/Footer.astro';
 import NavBar from '../components/NavBar.astro';
 
-const owner = siteConfig.owner;
+const title = siteConfig.title;
 const favicon = siteConfig.favicon;
 ---
 
@@ -22,7 +22,7 @@ const favicon = siteConfig.favicon;
 
 		<meta name="viewport" content="width=device-width" />
 		<meta name="generator" content={Astro.generator} />
-		<title>{owner}</title>
+		<title>{title}</title>
 	</head>
 	<body>
 		<NavBar />
