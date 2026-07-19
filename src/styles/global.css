@@ -65,3 +65,7 @@
 		@apply w-full;
 	}
 }
+
+.instagram-media {
+	display: inline-block !important;
+}

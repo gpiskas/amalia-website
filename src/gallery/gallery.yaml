@@ -1,90 +1,159 @@
 collections:
-  - id: nature
-    name: Nature
-  - id: travel
-    name: Travel
-  - id: street
-    name: Street
+  - id: botanical
+    name: Botanical
+  - id: coastal
+    name: Coastal
 images:
-  - path: nature/nature-2.jpg
+# BOTANICAL
+  - path: botanical/1a.jpg
     meta:
-      title: Nature scene 2
-      description: Serene natural landscape capturing the essence of wilderness.
-      collections:
-        - nature
-    exif: {}
-  - path: nature/nature-3.jpg
-    meta:
-      title: Nature scene 3
-      description: Breathtaking natural vista showcasing environmental beauty.
-      collections:
+      title: Botanical
+      description: Botanical
+      collections: 
+        - botanical
         - featured
-        - nature
-    exif: {}
-  - path: nature/nature-5.jpg
+  - path: botanical/1b.jpg
     meta:
-      title: Nature scene 5
-      description: Natural landscape showing the raw beauty of the environment.
+      title: Botanical
+      description: Botanical
       collections:
-        - nature
-    exif: {}
-  - path: nature/nature-7.jpg
+        - botanical
+  - path: botanical/1c.jpg
     meta:
-      title: Nature scene 7
-      description: Stunning natural landscape capturing environmental beauty.
+      title: Botanical
+      description: Botanical
       collections:
+        - botanical
+  - path: botanical/1d.jpg
+    meta:
+      title: Botanical
+      description: Botanical
+      collections:
+        - botanical
+  - path: botanical/2a.jpg
+    meta:
+      title: Botanical
+      description: Botanical
+      collections:
+        - botanical
         - featured
-        - nature
-    exif: {}
-  - path: nature/nature-8.jpg
+  - path: botanical/2b.jpg
     meta:
-      title: Nature scene 8
-      description: Beautiful natural vista showcasing environmental wonder.
+      title: Botanical
+      description: Botanical
       collections:
-        - nature
-    exif: {}
-  - path: nature/L1002174.jpg
+        - botanical
+  - path: botanical/2c.jpg
     meta:
-      title: Travel scene 6
-      description: null
+      title: Botanical
+      description: Botanical
       collections:
+        - botanical
+  - path: botanical/3a.jpg
+    meta:
+      title: Botanical
+      description: Botanical
+      collections:
+        - botanical
         - featured
-        - nature
-    exif:
-      captureDate: 2025-03-27T10:35:21.000Z
-      fNumber: 8
-      focalLength: 28
-      iso: 100
-      model: LEICA Q3
-      shutterSpeed: 1250
-      lensModel: SUMMILUX 1:1.7/28 ASPH.
-  - path: nature/nature-10.jpg
+  - path: botanical/3b.jpg
     meta:
-      title: Nature scene 10
-      description: Majestic natural landscape displaying environmental splendor.
+      title: Botanical
+      description: Botanical
       collections:
-        - nature
-    exif: {}
-  - path: street/stree-1.jpg
+        - botanical
+  - path: botanical/3c.jpg
     meta:
-      title: Street photography 1
-      description: Urban scene capturing the essence of city life.
+      title: Botanical
+      description: Botanical
       collections:
+        - botanical
+# COASTAL
+  - path: coastal/1a.jpg
+    meta:
+      title: Coastal
+      description: Coastal
+      collections:
+        - coastal
         - featured
-        - street
-    exif: {}
-  - path: travel/travel-1.jpg
+  - path: coastal/1b.jpg
     meta:
-      title: Travel scene 1
-      description: Journey through remarkable destinations.
+      title: Coastal
+      description: Coastal
       collections:
+        - coastal
+  - path: coastal/1c.jpg
+    meta:
+      title: Coastal
+      description: Coastal
+      collections:
+        - coastal
+  - path: coastal/2a.jpg
+    meta:
+      title: Coastal
+      description: Coastal
+      collections:
+        - coastal
         - featured
-        - travel
-    exif: {}
-  - path: nature/nature-1.jpg
+  - path: coastal/2b.jpg
     meta:
-      title: Nature 1
-      description: ''
+      title: Coastal
+      description: Coastal
       collections:
-        - nature
-    exif: {}
+        - coastal
+  - path: coastal/2c.jpg
+    meta:
+      title: Coastal
+      description: Coastal
+      collections:
+        - coastal
+  - path: coastal/3a.jpg
+    meta:
+      title: Coastal
+      description: Coastal
+      collections:
+        - coastal
+        - featured
+  - path: coastal/3b.jpg
+    meta:
+      title: Coastal
+      description: Coastal
+      collections:
+        - coastal
+  - path: coastal/3c.jpg
+    meta:
+      title: Coastal
+      description: Coastal
+      collections:
+        - coastal
+  - path: coastal/3d.jpg
+    meta:
+      title: Coastal
+      description: Coastal
+      collections:
+        - coastal
+  - path: coastal/4a.jpg
+    meta:
+      title: Coastal
+      description: Coastal
+      collections:
+        - coastal
+        - featured
+  - path: coastal/4b.jpg
+    meta:
+      title: Coastal
+      description: Coastal
+      collections:
+        - coastal
+  - path: coastal/4c.jpg
+    meta:
+      title: Coastal
+      description: Coastal
+      collections:
+        - coastal
+  - path: coastal/4d.jpg
+    meta:
+      title: Coastal
+      description: Coastal
+      collections:
+        - coastal

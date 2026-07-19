@@ -11,7 +11,7 @@ export default {
 	title: 'By Amalia · Art Studio',
 	owner: 'Amalia Karachaliou',
 	favicon: 'favicon.png',
-	profileImage: 'profile.png',
+	profileImage: 'profile.jpg',
 	socialLinks: [
 		{
 			name: 'Instagram',
